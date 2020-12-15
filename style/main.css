@@ -948,6 +948,10 @@ hr {
   -webkit-transform: translate(600px, 840px);
   -moz-transform: translate(600px, 840px);
   transform: translate(600px, 840px); }
+.tile.tile-position-11-16 {
+  -webkit-transform: translate(600px, 900px);
+  -moz-transform: translate(600px, 900px);
+  transform: translate(600px, 900px); }
 
 .tile.tile-position-12-1 {
   -webkit-transform: translate(660px, 0px);
